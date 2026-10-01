@@ -55,12 +55,4 @@
 
 ---
 
-## 📫 Контакты
-
-**Email:** [lorandmay2019@gmail.com](mailto:lorandmay2019@gmail.com)
-
-**Хабр Карьера:** https://career.habr.com/kisuka
-
----
-
 ⭐ Спасибо, что заглянули в мой профиль!
